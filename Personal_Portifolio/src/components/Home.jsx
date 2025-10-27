@@ -15,7 +15,7 @@ export default function Home({ scrollToSection }) {
         <div className="flex-1 text-center lg:text-left">
           <p className="text-gray-500 text-base sm:text-lg lg:text-xl mb-2 lg:mb-3 font-medium">Hello, I'm</p>
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold mb-3 lg:mb-4 leading-tight text-black">
-            GISUBIZO <br/> Deveolper
+           Andy<br/> Deveolper
           </h1>
           <p className="text-xl sm:text-2xl lg:text-3xl text-gray-600 mb-6 lg:mb-10 font-bold">Frontend and Backend Developer</p>
 
@@ -33,7 +33,7 @@ export default function Home({ scrollToSection }) {
 
           <div className="flex gap-5 justify-center lg:justify-start">
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/ishimwe-andy-9146a2249/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-60 transition-all duration-300 hover:scale-110"
@@ -41,7 +41,7 @@ export default function Home({ scrollToSection }) {
               <Linkedin size={32} className="sm:w-9 sm:h-9" strokeWidth={1.5} />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/Andyish-tech"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-60 transition-all duration-300 hover:scale-110"
