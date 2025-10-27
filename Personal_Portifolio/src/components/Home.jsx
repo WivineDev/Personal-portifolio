@@ -15,9 +15,9 @@ export default function Home({ scrollToSection }) {
         <div className="flex-1 text-center lg:text-left">
           <p className="text-gray-500 text-base sm:text-lg lg:text-xl mb-2 lg:mb-3 font-medium">Hello, I'm</p>
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold mb-3 lg:mb-4 leading-tight text-black">
-            IRATUZI <br/> Wivine
+            GISUBIZO <br/> Deveolper
           </h1>
-          <p className="text-xl sm:text-2xl lg:text-3xl text-gray-600 mb-6 lg:mb-10 font-bold">Frontend Developer</p>
+          <p className="text-xl sm:text-2xl lg:text-3xl text-gray-600 mb-6 lg:mb-10 font-bold">Frontend and Backend Developer</p>
 
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 mb-6 lg:mb-10 justify-center lg:justify-start">
             <button className="px-8 sm:px-10 lg:px-12 py-3.5 lg:py-4 border-2 border-black rounded-full text-base lg:text-lg font-semibold bg-white text-black transition-all duration-300 hover:bg-black hover:text-white hover:shadow-xl hover:scale-105">

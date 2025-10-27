@@ -7,9 +7,9 @@ import Contact from "@/components/Contact"
 export default function Page() {
   return (
     <div className="min-h-screen bg-[#fafafa]">
-      <nav className="fixed top-0 left-0 right-0 bg-white/80 backdrop-blur-sm z-50 border-b border-gray-200">
+      <nav className="bg-white/80 backdrop-blur-sm z-50 border-b border-gray-200">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
-          <h1 className="text-2xl font-bold">MUHUMUZA</h1>
+          <h1 className="text-2xl font-bold">GISUBIZO</h1>
           <div className="flex gap-8">
             <a href="#about" className="text-lg hover:text-gray-600 transition-colors">
               About

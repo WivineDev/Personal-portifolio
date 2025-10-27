@@ -4,14 +4,14 @@ export default function Experience() {
   const frontendSkills = [
     { name: "HTML", level: "Experienced" },
     { name: "CSS", level: "Experienced" },
-    { name: "SASS", level: "Intermediate" },
     { name: "JavaScript", level: "Basic" },
-    { name: "TypeScript", level: "Basic" },
+    { name: "TailwindCss", level: "Intermediate" },
     { name: "Material UI", level: "Intermediate" },
+    { name: "React JS", level: "Intermediate" },
   ]
 
   const backendSkills = [
-    { name: "PostgreSQL", level: "Basic" },
+    { name: "MySQL", level: "Experienced" },
     { name: "Node JS", level: "Intermediate" },
     { name: "Express JS", level: "Intermediate" },
     { name: "Git", level: "Intermediate" },

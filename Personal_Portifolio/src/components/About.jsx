@@ -21,20 +21,20 @@ export default function About() {
               <div className="flex-1 bg-white border-2 border-gray-200 rounded-[2rem] p-10 text-center shadow-md hover:shadow-lg transition-shadow duration-300">
                 <Award size={32} className="w-10 h-10 mx-auto mb-4" strokeWidth={1.5} />
                 <h3 className="text-2xl font-bold mb-2 text-black">Experience</h3>
-                <p className="text-gray-600 text-lg font-semibold">2+ years</p>
-                <p className="text-gray-600 text-lg">Frontend Development</p>
+                <p className="text-gray-600 text-lg font-semibold">3+ years</p>
+                <p className="text-gray-600 text-lg">Frontend and Backend Development</p>
               </div>
 
               <div className="flex-1 bg-white border-2 border-gray-200 rounded-[2rem] p-10 text-center shadow-md hover:shadow-lg transition-shadow duration-300">
                 <GraduationCap size={32} className="w-10 h-10 mx-auto mb-4" strokeWidth={1.5} />
                 <h3 className="text-2xl font-bold mb-2 text-black">Education</h3>
                 <p className="text-gray-600 text-lg">B.Sc. Bachelors Degree</p>
-                <p className="text-gray-600 text-lg">in software Engineering</p>
+                <p className="text-gray-600 text-lg">in software Development</p>
               </div>
             </div>
 
             <p className="text-gray-600 text-lg leading-relaxed">
-              Experienced Full Stack Developer with 2.5+ years in web and mobile app development. Proficient in
+              Experienced Full Stack Developer with 3+ years in web and mobile app development. Proficient in
               React.js, TypeScript, Node.js, Django, and database management. Skilled in building scalable solutions,
               optimizing performance, and deploying with Docker, Kubernetes, and CI/CD. Passionate about UI/UX,
               security, and mentoring teams.
