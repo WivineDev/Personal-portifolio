@@ -17,7 +17,7 @@ export default function Contact({ scrollToSection }) {
             className="flex items-center text-black gap-4 hover:opacity-60 transition-all duration-300"
           >
             <Mail size={28} className="w-9 h-9" strokeWidth={1.5} />
-            <span className="text-xl font-medium">gisubizoitss@gmail.com</span>
+            <span className="text-xl font-medium">andyishimweitss@gmail.com</span>
           </a>
           <a
             href="https://linkedin.com"
@@ -58,7 +58,7 @@ export default function Contact({ scrollToSection }) {
             Contact
           </button>
         </nav>
-        <p className="text-center text-gray-600 text-lg">Copyright © 2023 IRATUZI Wivine. All Rights Reserved.</p>
+        <p className="text-center text-gray-600 text-lg">Copyright © 2023 ISHIMWE Andy. All Rights Reserved.</p>
       </footer>
     </section>
   )
